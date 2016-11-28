@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yelouafi/redux-saga-beginner-tutorial.git"
+    "url": "git+https://github.com/FintanK/react-redux-saga-example"
   },
-  "author": "Yassine ELOUAFI <yelouafi@gmail.com>",
+  "author": "Fintan Kearney",
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "6.3.14",
