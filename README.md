@@ -2,6 +2,10 @@
 
 Inspired by https://github.com/yelouafi/redux-saga-beginner-tutorial/tree/sagas
 
+# Useful Resources
+
+https://gotocon.com/dl/goto-chicago-2015/slides/CaitieMcCaffrey_ApplyingTheSagaPattern.pdf
+
 This application provides a basic example of how redux-saga can be applied to a counter
 
 # Background
